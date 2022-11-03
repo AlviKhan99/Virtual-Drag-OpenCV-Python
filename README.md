@@ -13,3 +13,9 @@ Step 03: Install all libraries
 ```bash
 pip install -r requirements.txt
 ```
+
+# Author
+
+## Alvi Khan Chowdhury
+
+## Email: alviavailable@gmail.com
