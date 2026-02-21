@@ -22,6 +22,8 @@ class DragRectangle():
         self.CenterPosition = CenterPosition
         self.size = size
 
+
+
     def update(self,cursor):
         cx,cy = self.CenterPosition
         w,h = self.size
